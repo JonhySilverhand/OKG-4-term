@@ -1,0 +1,19 @@
+﻿Сборка начата 15.02.2023 16:35:24.
+Уровень детализации журнала: Normal.     1>Проект "D:\University\4th_term\ОКГ\Lab1\Win32Project1\Win32Project1\Win32Project1.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Win32Project1.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Win32Project1.vcxproj -> D:\University\4th_term\ОКГ\Lab1\Win32Project1\Debug\Win32Project1.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Win32Project1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Win32Project1.tlog\Win32Project1.lastbuildstate".
+     1>Сборка проекта "D:\University\4th_term\ОКГ\Lab1\Win32Project1\Win32Project1\Win32Project1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.20
